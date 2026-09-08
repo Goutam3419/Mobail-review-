@@ -1,0 +1,1 @@
+// Placeholder: next.config.ts
